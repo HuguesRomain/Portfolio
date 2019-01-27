@@ -1,0 +1,61 @@
+.profil_pic{
+  position: absolute;
+  width: 324px;
+  height: 429px;
+  transform: translateY(-42vw) translateX(200px);
+  opacity: 0;
+}
+
+.aboutme__description{
+  position: absolute;
+  font-size: 20px;
+  font-family: Butler;
+  line-height: 30px;
+  transform: translateY(-35vw) translateX(75vh);
+  opacity: 0;
+}
+
+.aboutme{
+  position: absolute;
+  font-size: 50px;
+  font-family: Butler;
+  line-height: 30px;
+  opacity: 0;
+  transform: translateY(-44.5vw) translateX(90vh);
+}
+
+.gold__elements{
+  color: #AC8B3D;
+}
+
+.page2__line--1{
+  position: absolute;
+  background-color: white;
+  height: 30vh;
+  width: 0.2vw;
+  transform: translateY(-115vh) translateX(25vw);
+}
+
+.page2__line--2{
+  position: absolute;
+  background-color: white;
+  height: 0.2vh;
+  width: 25vw;
+  transform: translateY(-80vh) translateX(100vw);
+}
+
+.page2__line--3{
+  position: absolute;
+  background-color: white;
+  height:  9vw;
+  width: 0.2vw;
+  transform: translateY(-18vh) translateX(65vw);
+}
+
+.page2__line--4{
+  position: absolute;
+  background-color: white;
+  height: 0.2vh;
+  width: 10vw;
+  transform: translateY(-20vh) translateX(0.1vw);
+}
