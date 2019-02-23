@@ -5,18 +5,6 @@ body {
   overflow-x: hidden;
 }
 
-.number__page--3--slider{
-    font-family: Impact;
-    font-size: 600px;
-    color: #FFC94E;
-    transform: translateY(-70vh) translateX(10vw);
-  }
-  .number__page--4--slider{
-    font-family: Impact;
-    font-size: 600px;
-    color: #FFC94E;
-    transform: translateY(-70vh) translateX(40vw);
-  }
 
   .gardient__slider{
     z-index: 1;
